@@ -22,7 +22,7 @@ servers:
 #
 # proxy:
 #   ssl: true
-#   host: app.example.com
+#   host: api.tiem-showcase.site
 
 # Where you keep your container images.
 registry:
